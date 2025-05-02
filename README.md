@@ -62,11 +62,4 @@ Check out my pinned repos for more!
 - ✉️ [theerthabharathan@gmail.com](mailto:theerthabharathan@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/theertha-bharathan)
 
----
-
-### ⚡ Fun Facts
-
-- I love traveling, dancing, and baking 🍰💃✈️  
-- I’m a quick learner and thrive in collaborative environments  
-- Currently working at Bosch Rexroth on cutting-edge IoT solutions
 
