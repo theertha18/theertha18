@@ -41,14 +41,6 @@ Check out my pinned repos for more!
 
 ---
 
-### 🤝 Let’s Collaborate
-
-- 🚀 Embedded AI & IoT projects  
-- 📈 ML solutions for real-world data  
-- ⚙️ DevOps automation and cloud-native apps
-
----
-
 ### 💬 Ask Me About
 
 - Building scalable microservices  
