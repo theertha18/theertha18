@@ -1,16 +1,72 @@
-## Hi there 👋
+## Hi there 👋 I'm Theertha Bharathan
 
-<!--
-**theertha18/theertha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Software Engineer | Embedded Systems | IoT | AI | Cloud | DevOps  
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate software engineer with 4+ years of experience building solutions at the intersection of embedded systems, IoT, AI, and cloud technologies.  
+I specialize in developing scalable microservices, automating CI/CD pipelines, and deploying intelligent systems that solve real-world problems.
+
+Currently pursuing my Master’s in Information Technology at Frankfurt University of Applied Sciences, I’m on a mission to turn cutting-edge ideas into impactful products.
+
+---
+
+### 🔧 Technologies & Tools
+
+- **Languages:** Python, Go, SQL, Bash  
+- **Frameworks & Tools:** Flask, FastAPI, Django, Docker, Kubernetes, Snapcraft  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Time-Series Analysis  
+- **Cloud & DevOps:** AWS, Azure, Jenkins, CI/CD, Terraform  
+- **Embedded & IoT:** Raspberry Pi, Embedded Linux, OTA Updates, Device Optimization
+
+---
+
+### 🌱 Currently Learning
+
+- Kubernetes, Terraform, and MLOps best practices  
+- Advanced deep learning (PyTorch, TensorFlow)  
+- Embedded C/C++ and IoT protocols (MQTT, CoAP)
+
+---
+
+### 🔭 Projects & Research
+
+- AI for infant seat occupancy detection 🚗👶  
+- Cloud-based anomaly detection for predictive maintenance ☁️⚙️  
+- Arecanut classifier using image processing 🌰📸  
+- Snap-based microservices for device management 📦🛠️
+
+Check out my pinned repos for more!
+
+---
+
+### 🤝 Let’s Collaborate
+
+- 🚀 Embedded AI & IoT projects  
+- 📈 ML solutions for real-world data  
+- ⚙️ DevOps automation and cloud-native apps
+
+---
+
+### 💬 Ask Me About
+
+- Building scalable microservices  
+- Integrating ML into production  
+- Optimizing embedded devices for performance
+
+---
+
+### 📫 How to Reach Me
+
+- ✉️ [theerthabharathan@gmail.com](mailto:theerthabharathan@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/theertha-bharathan)
+
+---
+
+### ⚡ Fun Facts
+
+- I love traveling, dancing, and baking 🍰💃✈️  
+- I’m a quick learner and thrive in collaborative environments  
+- Currently working at Bosch Rexroth on cutting-edge IoT solutions
+
