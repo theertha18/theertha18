@@ -10,7 +10,7 @@ Currently pursuing my Master’s in Information Technology at Frankfurt Universi
 
 ### 🔧 Technologies & Tools
 - **Languages:** Python, Go, SQL, Bash  
-- **Frameworks & Tools:** Flask, FastAPI, Django, Docker, Kubernetes, Snapcraft  
+- **Frameworks & Tools:** Flask, FastAPI, Django, Docker, Snapcraft  
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Time-Series Analysis  
 - **Cloud & DevOps:** AWS, Azure, Jenkins, CI/CD, Terraform  
 - **Embedded & IoT:** Raspberry Pi, Embedded Linux, OTA Updates, Device Optimization
